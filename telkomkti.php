@@ -7,7 +7,7 @@
     <meta name="author" content="">
     <link rel="icon" href="favicon.png">
 
-    <title>Telkom KTI</title>
+    <title>Dashboard KTI</title>
 
     <!-- Bootstrap core CSS -->
     <link href="dist/css/bootstrap.min.css" rel="stylesheet">
